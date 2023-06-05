@@ -6,6 +6,12 @@ A 2D Puzzle and Platformer Game built on Unity Engine, using Reneverse.io Cloud 
 
 * The Theme I selected was Borderless: Two games were built with at least one unique asset for each, and integrated into game via the ReneVerse Unity SDK.
 
+* To install the ReneVerse Unity SDK, here's the link:
+[ReneVerse Unity SDK](https://cdn.reneverse.io/sdk/ReneVerse1.0.2.unitypackage)
+
+* For Description about ReneVerse, here's the link:
+[ReneVerse Platform](https://docs.reneverse.io/reneverse-tour/what-is-reneverse)
+
 ### Installation
 * Download the Executable folder in present in this Repository.
 * Open the Folder and run DANTIAN.exe
