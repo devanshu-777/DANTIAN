@@ -18,20 +18,20 @@ A 2D Puzzle and Platformer Game built on Unity Engine, using Reneverse.io Cloud 
 * Only downloading DANTIAN.exe might be erroneous as it has dependencies.
 
 ### Screenshots
-* Main Screen:
+* #### Main Screen:
 ![image](https://github.com/devanshu-777/DANTIAN/assets/92639289/2787cd01-1ad2-4665-8ae3-bc5d9535f9ca)
 
-* Unite25 Game:
+* #### Unite25 Game:
 ![image](https://github.com/devanshu-777/DANTIAN/assets/92639289/a2ef19bf-ffb9-4161-8e6e-15736136b995)
 
-* Pause Menu (After ESC key press):
+* #### Pause Menu (After ESC key press):
 ![image](https://github.com/devanshu-777/DANTIAN/assets/92639289/a036ff9e-6d64-47aa-a86d-15962dd1324c)
 
-* BlitzWing Game Mode Select:
+* #### BlitzWing Game Mode Select:
 ![image](https://github.com/devanshu-777/DANTIAN/assets/92639289/59341dde-8eae-4aa5-ba6e-877a89d37bb3)
 
-* BlitzWing Easy Mode:
+* #### BlitzWing Easy Mode:
 ![image](https://github.com/devanshu-777/DANTIAN/assets/92639289/3177c4dc-61f3-4f35-b056-761b5ce2c3e9)
 
-* BlitzWing Hard Mode:
+* #### BlitzWing Hard Mode:
 ![image](https://github.com/devanshu-777/DANTIAN/assets/92639289/789023d1-e09f-4b73-840b-25566c680a6b)
