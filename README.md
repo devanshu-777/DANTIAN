@@ -2,7 +2,7 @@
 A 2D Puzzle and Platformer Game built on Unity Engine with platform being the Web.
 
 ### Description
-* Play the games by accessing the link below:
+* Play the games by accessing here:
 https://devanshu-777.github.io/DANTIAN-WebGL/
 
 ### Screenshots
