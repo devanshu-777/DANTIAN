@@ -3,23 +3,23 @@ A 2D Puzzle and Platformer Game built on Unity Engine with platform being the We
 
 ### Description
 * Play the games by accessing here:
-https://devanshu-777.github.io/DANTIAN-WebGL/
+https://devanshu-777.github.io/DANTIAN/
 
 ### Screenshots
 * #### Main Screen:
-![image](https://github.com/devanshu-777/DANTIAN/assets/92639289/8c679ec0-7f92-4c03-b608-6dbfd897c54f)
+![image](https://github.com/user-attachments/assets/48baeff1-36ae-46bd-be8f-c845615dfaf6)
 
 * #### Unite25 Game:
-![image](https://github.com/devanshu-777/DANTIAN/assets/92639289/fbcc2ba4-2a3c-4ba1-a12c-614674af0766)
+![image](https://github.com/user-attachments/assets/1a8dab9e-d264-48ba-bb64-8e005659069d)
 
 * #### Pause Menu (After ESC key press):
-![image](https://github.com/devanshu-777/DANTIAN/assets/92639289/a036ff9e-6d64-47aa-a86d-15962dd1324c)
+![image](https://github.com/user-attachments/assets/cb46a3c2-21f3-46e3-ae46-ee07e615702f)
 
 * #### BlitzWing Game Mode Select:
-![image](https://github.com/devanshu-777/DANTIAN/assets/92639289/5161deeb-dc6d-4d58-8145-857545b573f0)
+![image](https://github.com/user-attachments/assets/db674b32-9dc1-465a-bdd5-7db9bbe6ee3b)
 
 * #### BlitzWing Easy Mode:
-![image](https://github.com/devanshu-777/DANTIAN/assets/92639289/1dc022a3-0365-41b6-9900-65215aa7e0b9)
+![image](https://github.com/user-attachments/assets/f1a47125-01bc-4ccb-bcd2-5daf9612d677)
 
 * #### BlitzWing Hard Mode:
-![image](https://github.com/devanshu-777/DANTIAN/assets/92639289/1a3e3fb2-6211-4aa5-b6ea-8acf40edfc4f)
+![image](https://github.com/user-attachments/assets/3f43afea-2683-409d-9178-f7fb3469e21a)
