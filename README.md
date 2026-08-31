@@ -3,7 +3,7 @@ A 2D Puzzle and Platformer Game built on Unity Engine with platform being the We
 
 ### Description
 * Play the games by accessing here:
-https://devanshu-777.github.io/DANTIAN/
+https://devanshshah-tech.github.io/DANTIAN/
 
 ### Screenshots
 * #### Main Screen:
